@@ -21,8 +21,8 @@
         "favoredReligion": "Baptist",
 		"uniqueName": "Emancipation Proclamation",
 		"uniques": [
-		"[+1 Production, +1 Culture, +1 Happiness] from every [House]","[+1 Production, +1 Gold, +1 Culture] from every [Railroad]","[-3]% [Happiness] from every [Slave Labor Plantation]",
-		"[Gold] cost of purchasing [Slave] units [+200]%", "May buy [Worker] units for [30] [Culture] [in all cities]",	
+		"[+1 Culture, +2 Faith] from every [House]","[+1 Culture, +2 Production] from every [Railroad]","[-3]% [Happiness] from every [Slave Labor Plantation]",
+		"[Gold] cost of purchasing [Slave] units [+200]%", "[+1 Food] from [Plains] tiles [in all cities]", "[+1 Gold] from [Coast] tiles [in all cities]",
 		"[+20]% [Science] [in all cities] <starting from the [Cold War]>","[+20]% [Gold] [in all cities] <starting from the [Cold War]>"], 
 		"cities": ["Washington","New York","Boston","Philadelphia","Atlanta","Chicago","Seattle","San Francisco","Los Angeles","Houston",
 			"Portland","St. Louis","Miami","Buffalo","Detroit","New Orleans","Baltimore","Denver","Cincinnati","Dallas","Memphis",
