@@ -1,17 +1,17 @@
 [
-	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
+{
+		"name": "CIA Agent",
+		"unitType": "Civilian",
+		"uniqueTo": "The United States",
+		"movement": 3,
+		"cost": 300,
+		"requiredTech": "Satellites",
+		"uniques": [
+            "[+10]% Strength bonus for [Military] units within [8] tiles", "[+8] Sight", "Can see over obstacles",
+            "Can instantly construct a [Black Site] improvement <after which this unit is consumed>",
+            "Uncapturable"],
+		"promotions": ["Ignore terrain cost"],
+
+		"movement": 4
 	}
 ]
