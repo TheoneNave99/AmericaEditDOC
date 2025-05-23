@@ -2,13 +2,12 @@
 {
 		"name": "CIA Agent",
 		"unitType": "Civilian",
-		"uniqueTo": "The United States",
+		"uniqueTo": "The United States of America",
 		"movement": 3,
 		"cost": 300,
 		"requiredTech": "Satellites",
 		"uniques": [
-            "[+10]% Strength bonus for [Military] units within [8] tiles", "[+8] Sight", "Can see over obstacles",
-            "Can instantly construct a [Black Site] improvement <after which this unit is consumed>",
+            "[+15]% Strength bonus for [Military] units within [8] tiles", "[+6] Sight", "Can see over obstacles",
             "Uncapturable"],
 		"promotions": ["Ignore terrain cost"],
 
